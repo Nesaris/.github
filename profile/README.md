@@ -2,4 +2,4 @@
 
 Self-hosted network tools — mapping, monitoring and securing your own LAN.
 
-Website: https://nesaris.cloud
+Website: https://nesaris.github.io
